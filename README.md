@@ -25,7 +25,6 @@ To perform **ETL (Extract-Transform-Load)** on Amazon sales data and:
 - 📈 Visualization of key metrics and attribute relationships
 - 🧠 Insight-driven summary based on research and data patterns
 
----
 
-## 🧱 Project Structure
+
 
